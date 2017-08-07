@@ -17,6 +17,14 @@
             {
               "label": "Sort Texts",
               "command": "sort-texts:toggle"
+            },
+            {
+              "label": "JSON Beautify",
+              "command": "sort-texts:beautify"
+            },
+            {
+              "label": "JSON simplify",
+              "command": "sort-texts:simplify"
             }
           ]
         }

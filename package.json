@@ -6,7 +6,9 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "sort-texts:toggle"
+    "atom-workspace": "sort-texts:toggle",
+    "atom-workspace": "sort-texts:beautify",
+    "atom-workspace": "sort-texts:simplify"
   },
   "repository": "https://github.com/nimilp/atom_plugins",
   "license": "MIT",
