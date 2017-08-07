@@ -1,10 +1,18 @@
 {
   "context-menu": {
     "atom-text-editor": [
+      {"label":"Tools Of Nimil","submenu":[
       {
-        "label": "Tools of Nimil -> Sort Texts",
+        "label": "Sort Texts",
         "command": "sort-texts:toggle"
-      }
+      },{
+        "label": "Beautify JSON",
+        "command": "sort-texts:beautify"
+      },{
+        "label": "Simplify JSON",
+        "command": "sort-texts:simplify"
+      },{"type":"separator"}]
+    }
     ]
   },
   "menu": [
