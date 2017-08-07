@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Tools Of Nimil -> Sort Texts",
+        "label": "Tools of Nimil -> Sort Texts",
         "command": "sort-texts:toggle"
       }
     ]
@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "Tools Of Nimil",
+          "label": "Tools of Nimil",
           "submenu": [
             {
               "label": "Sort Texts",

@@ -1,4 +1,4 @@
-# sort-texts package
+# Tools of Nimil package
 
 Sort the string in atom editor. It will sort strings separated by new line character.
 

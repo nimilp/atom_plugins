@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "sort-texts:toggle"
   },
-  "repository": "https://github.com/atom/sort-texts",
+  "repository": "https://github.com/nimilp/atom_plugins",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
