@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Tools Of Nimil -> Sort Texts",
+        "command": "sort-texts:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Tools Of Nimil",
+          "submenu": [
+            {
+              "label": "Sort Texts",
+              "command": "sort-texts:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
