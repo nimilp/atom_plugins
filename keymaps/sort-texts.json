@@ -1,7 +1,7 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "sort-texts:toggle",
-    "ctrl-alt-b": "sort-texts:beautify",
-    "ctrl-alt-m": "sort-texts:simplify"
+    "ctrl-alt-o": "Nimil:sort",
+    "ctrl-alt-b": "Nimil:beautify",
+    "ctrl-alt-m": "Nimil:simplify"
   }
 }

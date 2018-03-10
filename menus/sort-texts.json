@@ -4,13 +4,13 @@
       {"label":"Tools Of Nimil","submenu":[
       {
         "label": "Sort Texts",
-        "command": "sort-texts:toggle"
+        "command": "Nimil:sort"
       },{
         "label": "Beautify JSON",
-        "command": "sort-texts:beautify"
+        "command": "Nimil:beautify"
       },{
         "label": "Simplify JSON",
-        "command": "sort-texts:simplify"
+        "command": "Nimil:simplify"
       },{"type":"separator"}]
     }
     ]
@@ -24,15 +24,15 @@
           "submenu": [
             {
               "label": "Sort Texts",
-              "command": "sort-texts:toggle"
+              "command": "Nimil:sort"
             },
             {
               "label": "JSON Beautify",
-              "command": "sort-texts:beautify"
+              "command": "Nimil:beautify"
             },
             {
               "label": "JSON simplify",
-              "command": "sort-texts:simplify"
+              "command": "Nimil:simplify"
             }
           ]
         }
